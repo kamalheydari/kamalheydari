@@ -1,3 +1,3 @@
-<h1 align="center">Hello World I'm Kamal Heydari</h1>
+<h1 align="center">Hello World I'm <span color='blue' >Kamal Heydari</span></h1>
 
 ![git](/git-blob.gif)
