@@ -1,5 +1,7 @@
 <h1 align="center">Hello World I'm  Kamal Heydari</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 - 📫 How to reach me **kamal2heydari@gmail.com**
 
 <br>
