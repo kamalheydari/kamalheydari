@@ -14,7 +14,7 @@
 
 <a href="https://wa.me/+989394965621?text=Hello!" target="blank">
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-34B7F1?style=for-the-badge&logo=WhatsApp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 </a>
 
 </p>
