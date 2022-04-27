@@ -1,13 +1,6 @@
 <h1 align="center">Hello World I'm  Kamal Heydari</h1>
 
-![git](/git.jpg)
-
-
-
-
 - 📫 How to reach me **kamal2heydari@gmail.com**
-
-<!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
 
 <br>
 
@@ -19,6 +12,10 @@
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 </a>
 
+<a href="https://wa.me/+989394965621?text=Hello!" target="blank">
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-34B7F1?style=for-the-badge&logo=WhatsApp&logoColor=white)
+</a>
 
 </p>
 
